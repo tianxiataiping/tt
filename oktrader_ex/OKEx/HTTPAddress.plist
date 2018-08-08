@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>生产环境</string>
+		<key>httpDomin</key>
+		<string>https://okexcomweb.bafang.com</string>
+		<key>socketHost</key>
+		<string>wss://okexcomreal.bafang.com:10441/websocket</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>预发布环境</string>
+		<key>httpDomin</key>
+		<string>https://testokex.bafang.com</string>
+		<key>socketHost</key>
+		<string>wss://okexcomreal.bafang.com:10441/websocket</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>开发测试环境</string>
+		<key>httpDomin</key>
+		<string>http://localtest.intra.okex.com</string>
+		<key>socketHost</key>
+		<string>ws://192.168.80.26:10443/websocket</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>QA 测试环境</string>
+		<key>httpDomin</key>
+		<string>http://coinmainweb.new.docker.okex.com</string>
+		<key>socketHost</key>
+		<string>ws://192.168.80.107:10441/websocket</string>
+	</dict>
+</array>
+</plist>

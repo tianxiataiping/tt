@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  OKEx
+
+  Created by 金小白 on 2018/6/5.
+  Copyright © 2018年 OKEx. All rights reserved.
+*/
+
+"TabbarHome"    = "Home";
+"TabbarMarket"  = "Market";
+"TabbarSpot"    = "Spot";
+"TabbarFutures" = "Futures";
+
+"TabbarFiat"    = "Fiat";
+"OKGKYCDeclare" = "OKEX presently does not serve customers in the following countries: Iran, North Korea, Syria, Sudan, Bangladesh, Bolivia, Ecuador, Kyrgyzstan, and United States of America. For more details, please refer to Terms of Service and Risk & Compliance Disclosures. ";
+"OKGKYCPrompt"   = "Currently OKEX App does not support corporate account verification,\n please proceed at www.okex.com desktop site";
+
+"TabbarFiat" = "Fiat";
+//登录、注册
+"OKGALoginOKEx"            ="Login OKEx";
+"OKGAPPName"                   = "OKEx";
+"OKGANotSupport"            = "OKEx currently does not support users from the following countries or regions";
+//首页
+"OKGHChangeRank"                = "OKEx Quotes";
+"OKGHInvestor"                  = "OKEx is backed by top investors including Tim Draper, Ceyuan Ventures & more";
+"OKCoinActivities"               = "OKEx Promotions";
+
+// 币币模块
+"OKGSToken"           = "Token";
+"OKBSpotTabbarName"   = "Token";
+

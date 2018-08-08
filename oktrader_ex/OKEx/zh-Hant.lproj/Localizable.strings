@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  OKEx
+
+  Created by 金小白 on 2018/6/5.
+  Copyright © 2018年 OKEx. All rights reserved.
+*/
+
+"TabbarHome" = "首頁";
+"TabbarMarket" = "行情";
+"TabbarSpot" = "幣幣";
+"TabbarFutures" = "合約";
+"TabbarFiat" = "法幣";
+
+"OKGKYCDeclare" = "OKEX目前不支持來自下列國家的客戶：伊朗、朝鮮、敘利亞、蘇丹、孟加拉國、玻利維亞、厄瓜多爾、吉爾吉斯斯坦和美利堅合眾國。如欲了解更多詳情，請參閱我們的服務條款及我們的風險與合規聲明。";
+"OKGKYCPrompt"   = "OKEX APP暫不支持企業用戶認證,\n請前往www.okex.com網頁端認證";
+//登录、注册
+"OKGALoginOKEx"            = "登錄 OKEx";
+"OKGASignOKEx"             = "註冊 OKEx";
+"OKGAReminderTitle"     = "OKEx 提示";
+"OKGAPPName"                   = "OKEx";
+"OKGANotSupport"           = "OKEx 目前不支持來自下列国家或地区的客户：";
+//首页
+"OKGHChangeRank"                = "OKEx行情";
+"OKGHInvestor"                  = "OKEx 獲上億美金投資";
+"OKCoinActivities"              = "OKEx 活動";
+
+
+// 币币模块
+
+"OKGSToken"           = "幣幣";
+"OKBSpotTabbarName"   = "幣幣";
+
